@@ -1,0 +1,16 @@
+# Baza pentru analiza de date
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+jupyter
+requests
+
+# Quality of life
+pyarrow          # citire/scriere rapida de fisiere parquet
+python-dotenv    # chei si setari tinute in fisierul .env, nu in cod
+tqdm             # bara de progres pentru bucle lungi
+rich             # afisare mai clara in terminal (tabele, erori colorate)
+pytest           # teste automate
+ruff             # verifica si formateaza codul
